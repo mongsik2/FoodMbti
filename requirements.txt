@@ -1,0 +1,9 @@
+requests
+flask
+flask-restx
+werkzeug==2.1.2
+Faker
+joblib
+numpy
+sklearn
+flask-cors
